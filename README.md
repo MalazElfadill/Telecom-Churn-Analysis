@@ -1,9 +1,9 @@
-# 📉 Telecom Customer Churn Analysis
+# Telecom Customer Churn Analysis
 
-## 🔍 Project Overview
+## Project Overview
 This project analyzes customer churn in the telecom sector to identify key drivers behind customer loss and provide actionable insights to help the company reduce the churn rate and retain its clients.
 
-## 🧠 Project Steps
+## Project Steps
 1. **Data Modeling (SQL Server)**  
    Created a database named **TelecomChurn** covering all possible factors influencing churn:
    - `Customers`, `UsageData`, `Finance`, `Complaints`, `Engagement`, and `Churn`.
@@ -28,16 +28,16 @@ This project analyzes customer churn in the telecom sector to identify key drive
    - **Complaint Analysis**: *Billing* complaints are most strongly linked to churn.  
    - **Campaign Effectiveness**: Customers who did **not respond to marketing campaigns** have a churn rate 25% higher than others, revealing opportunities to improve targeted engagement.
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 - **SQL Server 2019 + SSMS** for data modeling & transformation  
 - **Power BI** for dashboard design & analysis  
 - **DirectQuery Connection** for optimized performance  
 
-## 📊 Key Takeaways
+## Key Takeaways
 - Improving **billing experience** and **customer communication** could significantly reduce churn.
 - **Proactive engagement** of Postpaid and high‑complaint customers is critical.
 - Insights support **data‑driven retention strategies** for customer success.
 
-## 📧 Contact
+## Contact
 *Malaz Abdalla*  
-📩 malaz.elfadill@gmail.com
+malaz.elfadill@gmail.com
