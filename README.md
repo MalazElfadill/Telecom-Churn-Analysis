@@ -38,6 +38,18 @@ This project analyzes customer churn in the telecom sector to identify key drive
 - **Proactive engagement** of Postpaid and high‑complaint customers is critical.
 - Insights support **data‑driven retention strategies** for customer success.
 
-## Contact
-*Malaz Abdalla*  
-malaz.elfadill@gmail.com
+##Key Insights
+- Churn higher in Postpaid (≈ 40%) vs Prepaid (≈ 15%)
+- Billing complaints most linked to churn
+- Regional churn high in South & West → possible coverage issues
+- Low engagement customers = higher churn
+
+## Folder Structure
+- PowerBI/: Power BI dashboard file (.pbix)
+- SQL/: SQL Server scripts & views used for analysis
+- README.md: Project documentation
+
+**Malaz Elfadil**  
+*Data and Business Intelligence Analyst*  
+ **Email:** [malaz.elfadill@gmail.com]
+ **LinkedIn:** [(https://www.linkedin.com/in/malazelfadil/)]
